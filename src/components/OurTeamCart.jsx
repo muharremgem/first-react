@@ -17,7 +17,7 @@ const OurTeamCart = ({ name, image, talent }) => {
               talent
             ) : (
               <a
-                href="https://github.com/muharremgem"
+                href="https://www.muharremgem.com/"
                 alt="link"
                 target={"_blank"}
                 rel="noreferrer"
