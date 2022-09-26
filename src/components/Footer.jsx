@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <div className="flex justify-center items-center py-[2rem] flex-col">
       <p>All Rights Reserved © 2022</p>
-      <p className="font-semibold">Coded by Alpha Tech & Mustafa Bilen</p>
+      <p className="font-semibold">Coded by Alpha Tech & Muharrem GEM</p>
     </div>
   );
 };

@@ -20,8 +20,8 @@ const OurTeam = () => {
           image="https://ca.slack-edge.com/T03LBL87DA8-U03MW5VGEMS-e7da38ceffb6-512"
         />
         <OurTeamCart
-          name="Mustafa Bilen"
-          image="https://ca.slack-edge.com/T03LBL87DA8-U03SCRR0XKJ-afef675115ce-512"
+          name="Muharrem GEM"
+          image="https://muharremgem.github.io/HTML_CSS_Alpha_Team/img/Ekran%20Resmi%202022-08-13%2002.39.01.png"
         />
         <OurTeamCart
           name="Harvey Watson"
