@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[Alpha](https://first-react-wx6z.vercel.app/)| Html Css Tailwind |![Alpha](alpha.gif)
+[Alpha](https://first-react-wx6z.vercel.app/)| React & Tailwind |![Alpha](alpha.gif)
 
 
 ## Available Scripts
